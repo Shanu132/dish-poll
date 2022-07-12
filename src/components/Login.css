@@ -1,0 +1,26 @@
+.login{
+    text-align: center;
+    background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-black-meat-western-food-banner-background-picture-image_1013905.jpg');
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-size: calc(15px + 2vmin);
+} 
+input{
+    background-color: #ffffff;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: 700;
+    height: 50px;
+}
+#btn{
+    background-color: #fdad02;
+    border: 2px solid white;
+    margin-top: 50px;
+}
